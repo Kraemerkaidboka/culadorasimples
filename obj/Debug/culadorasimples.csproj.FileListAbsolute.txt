@@ -1,0 +1,10 @@
+C:\Users\gabriel.kmgimaiel\source\repos\culadorasimples\bin\Debug\culadorasimples.exe.config
+C:\Users\gabriel.kmgimaiel\source\repos\culadorasimples\bin\Debug\culadorasimples.exe
+C:\Users\gabriel.kmgimaiel\source\repos\culadorasimples\bin\Debug\culadorasimples.pdb
+C:\Users\gabriel.kmgimaiel\source\repos\culadorasimples\obj\Debug\culadorasimples.csproj.AssemblyReference.cache
+C:\Users\gabriel.kmgimaiel\source\repos\culadorasimples\obj\Debug\culadorasimples.Form1.resources
+C:\Users\gabriel.kmgimaiel\source\repos\culadorasimples\obj\Debug\culadorasimples.Properties.Resources.resources
+C:\Users\gabriel.kmgimaiel\source\repos\culadorasimples\obj\Debug\culadorasimples.csproj.GenerateResource.cache
+C:\Users\gabriel.kmgimaiel\source\repos\culadorasimples\obj\Debug\culadorasimples.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.kmgimaiel\source\repos\culadorasimples\obj\Debug\culadorasimples.exe
+C:\Users\gabriel.kmgimaiel\source\repos\culadorasimples\obj\Debug\culadorasimples.pdb
